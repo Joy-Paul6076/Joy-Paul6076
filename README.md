@@ -81,7 +81,7 @@
 * Plain-text persistence
 * Built as a **university lab project (AIUB)**
 
-🔗 Repo: [github.com/Recur101/Bank-Account-Management-System](https://github.com/Joy-Paul6076/Java-bank-management-system)
+🔗 Repo: [github.com/JpBoss/Bank-Account-Management-System](https://github.com/Joy-Paul6076/Java-bank-management-system)
 
 ---
 
